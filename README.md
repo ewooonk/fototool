@@ -1,7 +1,7 @@
 # fototool
 Bulk processing of jpg exif data and RD-coordinates data to Geodatabase.
 
-### Fototool.py
+### fototool.py
 Updates exif-info including location and time of all images in a folder using a CSV, XLS or GBD file with RD-coordinates.
 
 ### fototoGDB.py
